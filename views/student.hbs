@@ -1,2 +1,10 @@
 <h1>👋 This is {{username}}'s profile! 👋</h1>
-<p>Her full name is {{name}} {{lastName}}</p>
+<p>The full name is {{name}} {{lastName}}</p>
+
+{{#if image}}
+  <div
+    class="student-image"
+    alt="{{name}}'s image"
+    style="background-image: url('{{image}}')"
+  ></div>
+{{/if}}
