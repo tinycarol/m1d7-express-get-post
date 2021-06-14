@@ -1,0 +1,15 @@
+[
+  { "name": "Alejandra", "lastName": "Rubio", "username": "alejandra" },
+  { "name": "Andrei", "lastName": "Tudorica", "username": "andrei" },
+  { "name": "Elizabeth", "lastName": "Colastra", "username": "elizabeth" },
+  { "name": "Gonzalo", "lastName": "Merino", "username": "gonzalo" },
+  { "name": "Grecia Patricia", "lastName": "Busquets", "username": "patricia" },
+  { "name": "Israel", "lastName": "Zambrana", "username": "israel" },
+  { "name": "Lucía", "lastName": "Sánchez", "username": "luci" },
+  { "name": "Marcos", "lastName": "Rodriguez", "username": "marcos" },
+  { "name": "Nicolás", "lastName": "Del Brío", "username": "nico" },
+  { "name": "Pablo", "lastName": "Enrique", "username": "pablo" },
+  { "name": "Paloma", "lastName": "Borro", "username": "paloma" },
+  { "name": "Shirley", "lastName": "Gianina", "username": "shirley" },
+  { "name": "Link", "lastName": "Alonso 😻", "username": "lenk", "image": "/assets/lenk.jpg" }
+]

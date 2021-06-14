@@ -1,0 +1,21 @@
+<h1>This is the home 🏠</h1>
+
+{{#if message}}
+  <div class="message">{{message}}</div>
+{{/if}}
+
+<div class="search">
+  <form action="/search">
+    <input type="text" name="search" placeholder="Write your search value" />
+    <button type="submit">🔎</button>
+  </form>
+</div>
+
+<div class="students-wrapper">
+  {{#each students as |student|}}
+    <a href="/students/{{student.username}}" class="student-link">Go to
+      <span>{{student.name}} {{student.lastName}}'s</span>
+      profile</a>
+    <br />
+  {{/each}}
+</div>
